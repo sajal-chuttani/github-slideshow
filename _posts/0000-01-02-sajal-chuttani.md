@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-<h2>"_Some people need just a high-five_</h2><h3>im=n face with a chair"_</h3>
+<h2>"Some people need just a high-five</h2><h3>in face with a chair"</h3>
 Use the left arrow to go back!
